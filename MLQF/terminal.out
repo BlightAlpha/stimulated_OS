@@ -1,0 +1,12 @@
+Program progs-um has loading problem!!!
+
+pid=2, M[33]=55.00
+pid=3, M[33]=55.00
+pid=2, M[33]=36.00
+pid=3, M[33]=36.00
+pid=2, M[33]=15.00
+Process 2 had completed successfully: Time=207, PF=5
+
+pid=3, M[33]=15.00
+Process 3 had completed successfully: Time=207, PF=5
+
